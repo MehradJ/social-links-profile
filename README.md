@@ -1,4 +1,4 @@
-# Social Links Profile
+# Social Links Profile (For Newbies)
 
 This is a **Social Links Profile** project built with **HTML & CSS**. It provides a simple and clean profile card displaying an avatar, name, location, bio, and social media links.
 
